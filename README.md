@@ -1,3 +1,3 @@
 # Sup
 - might write something here
-email me on me(at)zerw[dot]xyz
+- email me on me(at)zerw[dot]xyz
