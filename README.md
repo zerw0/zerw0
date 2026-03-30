@@ -14,4 +14,6 @@ homelab enthusiast, somewhat of a devops & an audio nerd
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-
+<p align="center">
+  <img height="200px" src="https://media1.tenor.com/m/jUILJMe2OUcAAAAd/title-fight.gif" />
+</p>
